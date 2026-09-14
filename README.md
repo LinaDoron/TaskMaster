@@ -43,12 +43,7 @@ ai_secretary_bot/
 
 ## Setup & Deployment
 
-1. **Clone the repository:**
-    
-    ```
-    git clone https://github.com/yourusername/taskmaster-ai.git
-    cd taskmaster-ai
-    ```
+1. **Clone the repository**
     
 2. **Install dependencies:**
     
@@ -63,7 +58,7 @@ ai_secretary_bot/
 4. **Initialize the engine:**
     
     ```
-    python main.py
+    python3 main.py
     ```
 
 ## Notion Database Architecture
